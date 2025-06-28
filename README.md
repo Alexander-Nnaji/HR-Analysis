@@ -22,8 +22,6 @@ Excel- Data visualization
 
  - Derived Fields: Tenure was calculated from job start dates; age groups were created for comparison.
 
-   -Outlier Detection: Salary outliers were flagged using the IQR method for further review.
-
 -The final dataset was clean, consistent, and ready for analysis.
 
 ## Exploratory data analysis
