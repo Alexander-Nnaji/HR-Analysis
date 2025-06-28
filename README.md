@@ -20,7 +20,6 @@ Excel- Data visualization
 
 - Data Types: Date fields were converted to proper date format; salary and age fields were validated as numeric.
 
- - Derived Fields: Tenure was calculated from job start dates; age groups were created for comparison.
 
 -The final dataset was clean, consistent, and ready for analysis.
 
