@@ -8,14 +8,14 @@ The dataset used for this analysis was obtained from the GlobalTech HR Employee 
 
 ## TOOLS
 
-Excel-data cleaning, pivote table etc
+Excel-data cleaning, pivot table etc
 
 Excel- Data visualization
 
 ## Data cleaning/Preparation
 
 
--Standardization: Categorical values (e.g., Job Titles, Education Levels, Gender) were standardized for consistency.
+-Standardization: Categorical values (e.g., Job Titles, Education Levels, Gender) we standardized for consistency.
 
 
 - Data Types: Date fields were converted to proper date format; salary and age fields were validated as numeric.
