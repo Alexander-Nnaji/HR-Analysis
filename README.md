@@ -8,7 +8,7 @@ The dataset used for this analysis was obtained from the GlobalTech HR Employee 
 
 ## TOOLS
 
-Excel-data cleaning, pivot table etc
+Excel-data cleaning, pivot table 
 
 Excel- Data visualization
 
